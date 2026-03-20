@@ -35,9 +35,9 @@ I'm **Kydin Young**,I am a programmer and a person who loves life.
 
 ### GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=hikydin&show_icons=true&text_bold=false&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&icon_color=57cc8a&ring_color=57cc8a&border_radius=20)
+![](https://github-readme-stats.vercel.app/api?username=kydinn&show_icons=true&text_bold=false&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&icon_color=57cc8a&ring_color=57cc8a&border_radius=20)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hikydin&layout=compact&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&border_radius=20)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kydinn&layout=compact&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&border_radius=20)
 
 ### 📫 How to reach me?
 
