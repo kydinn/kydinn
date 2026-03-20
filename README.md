@@ -19,7 +19,7 @@ I'm **Kydin Young**,I am a programmer and a person who loves life.
 
 - **C** and **C++** are my primary languages.
 - Learning **React**.
-- **Hexo** as [blog](https://kydins.com/) framework.
+- **Hugo** as [blog](https://kydins.com/) framework.
 - Know a little about **Docker**.
 
 ### Environment
